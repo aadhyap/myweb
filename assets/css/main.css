@@ -3155,7 +3155,8 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #c36e56;
+				background-color: transparent;
+				
 			}
 
 			#header .logo:active strong {
